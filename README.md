@@ -17,10 +17,14 @@ A sleek and intuitive Flutter application for designing and previewing customiza
 ## Demo
 
 ### App Preview:
-![App Customization Preview](test_theme/screenshots/custom_container.mp4)
-
+<video controls>
+  <source src="screenshots/custom_container.mp4" type="video/mp4">
+</video>
 ### Copy Code to Clipboard:
-![Code Copying Preview](test_theme/screenshots/copy_to_clipboard.mp4)
+
+<video  controls>
+  <source src="screenshots/copy_to_clipboard.mp4" type="video/mp4">
+</video>
 
 ## How It Works
 
