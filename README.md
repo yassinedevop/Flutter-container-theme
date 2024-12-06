@@ -17,9 +17,9 @@ A sleek and intuitive Flutter application for designing and previewing customiza
 ## Demo
 
 ### App Preview:
-![](https://github.com/yassinedevop/Flutter-container-theme/blob/master/screenshots/custom_container.mp4)
+![create your custom container](https://github.com/yassinedevop/Flutter-container-theme/blob/master/screenshots/custom_container.mp4)
 ### Copy Code to Clipboard:
-![](https://github.com/yassinedevop/Flutter-container-theme/blob/master/screenshots/copy_to_clipboard.mp4)
+![export the code](https://github.com/yassinedevop/Flutter-container-theme/blob/master/screenshots/copy_to_clipboard.mp4)
 
 
 ## How It Works
